@@ -52,6 +52,8 @@
 						<td> ${tempCustomer.email} </td>
 						<td>
 							<a href = "${updateLink}"> Update</a>
+							|
+							Delete
 						</td>
 					</tr>
 				</c:forEach>
