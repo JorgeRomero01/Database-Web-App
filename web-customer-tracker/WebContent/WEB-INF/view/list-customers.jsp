@@ -16,7 +16,7 @@
 	<div id = "wrapper">
 		<div id = "header">
 			<h2>
-				Customer Relationship Manager
+				Customer Manager
 			</h2>
 		</div>
 	</div>
