@@ -69,6 +69,12 @@ public class CustomerDAOImpl implements CustomerDAO {
 				
 		theQuery.executeUpdate();
 	}
+
+	@Override
+	public List<Customer> searchCustomers(String theSearchName) {
+		//not done
+		return null;
+	}
 	
 	
 
