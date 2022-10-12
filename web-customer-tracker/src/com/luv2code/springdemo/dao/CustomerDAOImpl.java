@@ -72,7 +72,16 @@ public class CustomerDAOImpl implements CustomerDAO {
 
 	@Override
 	public List<Customer> searchCustomers(String theSearchName) {
-		//not done
+		//get session 
+		Session currenSession = sessionFactory.getCurrentSession();
+		
+		Query theQuery = null;
+		
+		//only search by name if the theSearchName is not empty
+		if(theSearchName != null && theSearchName.trim().length() > 0) {
+			
+		}
+		
 		return null;
 	}
 	
