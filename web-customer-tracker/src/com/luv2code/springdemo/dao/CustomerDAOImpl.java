@@ -79,7 +79,8 @@ public class CustomerDAOImpl implements CustomerDAO {
 		
 		//only search by name if the theSearchName is not empty
 		if(theSearchName != null && theSearchName.trim().length() > 0) {
-			
+			//search firstName or lastName, case insensitive
+			theQuery = currenSession.createQuery("from Customer where lower(firstName) like :theName");
 		}
 		
 		return null;
