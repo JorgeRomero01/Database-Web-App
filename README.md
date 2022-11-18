@@ -6,3 +6,7 @@ Main Page:
 Update customer page:
 
 ![Screenshot (184)](https://user-images.githubusercontent.com/77369053/200148962-c1cbb648-7876-42b9-a3a7-4cafb75a952f.png)
+
+Add customer page:
+
+
