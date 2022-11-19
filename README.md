@@ -11,4 +11,6 @@ Add customer page:
 
 ![Screenshot (215)](https://user-images.githubusercontent.com/77369053/202783993-5f1c1ed0-52de-4fdc-9268-a6dcfe9f21fd.png)
 
+Search:
+
 
